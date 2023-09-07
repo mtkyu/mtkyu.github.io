@@ -50,3 +50,5 @@ Feel free to explore each project in detail by clicking on the corresponding lin
 - [Crop Yield Prediction](#) (Link to Project 4)
 
 Thank you for visiting my portfolio! If you have any questions or would like to connect, please don't hesitate to reach out.
+
+pages-themes/architect@v0.2.0
