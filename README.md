@@ -1,8 +1,8 @@
-# My Data Science Portfolio
+/ My Data Science Portfolio
 
 Welcome to my data science portfolio, where I showcase some of my top projects in the field of agriculture analytics and data-driven solutions.
 
-## Project 1: Precision Agriculture Analytics
+// Project 1: Precision Agriculture Analytics
 
 - **Project Overview:**
   - Developed a precision agriculture model to optimize crop yields by analyzing data from IoT sensors, drones, and satellite imagery.
@@ -11,7 +11,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 
 - **Technologies Used:** IoT, Drones, Satellite Imagery, Data Science
 
-## Project 2: Mushroom Supply Chain Optimization
+// Project 2: Mushroom Supply Chain Optimization
 
 - **Project Overview:**
   - Collaborated on a project to optimize the agricultural supply chain using data-driven approaches.
@@ -20,7 +20,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 
 - **Technologies Used:** Data Analysis, Supply Chain Optimization
 
-## Project 3: Crop Disease Detection System
+// Project 3: Crop Disease Detection System
 
 - **Project Overview:**
   - Created a machine learning-based system for early detection of crop diseases using image analysis.
@@ -29,7 +29,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 
 - **Technologies Used:** Machine Learning, Image Analysis, CNNs
 
-## Project 4: Crop Yield Prediction
+// Project 4: Crop Yield Prediction
 
 - **Project Overview:**
   - Implemented a predictive analytics model to forecast crop yields based on historical data, weather patterns, and soil conditions.
@@ -38,7 +38,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 
 - **Technologies Used:** Predictive Analytics, Time Series Analysis, Regression
 
-## Conclusion
+// Conclusion
 
 These projects represent my passion for applying data science to agriculture, driving innovation and efficiency in the industry. I am excited to continue working on data-driven solutions that make a positive impact on agriculture.
 
