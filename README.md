@@ -51,4 +51,6 @@ Feel free to explore each project in detail by clicking on the corresponding lin
 
 Thank you for visiting my portfolio! If you have any questions or would like to connect, please don't hesitate to reach out.
 
-pages-themes/architect@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
