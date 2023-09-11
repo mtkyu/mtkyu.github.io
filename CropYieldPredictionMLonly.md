@@ -190,7 +190,9 @@ pickle.dump(preprocessor, open('preprocessor.pkl', 'wb'))
 # Conclusion
 This workflow helped us in preprocessing data, training multiple regression models, and selecting the best model for predicting crop yields. Further refinement and validation are recommended for real-world applications.
 
-
+## Special Remarks
+This markdown page is a clean version of my original project. Here's my 'messier' version that led me create this clean version. 
+()
 ```python
 
 ```
