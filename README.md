@@ -29,7 +29,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 
 - **Technologies Used:** Predictive Analytics, Time Series Analysis, Regression
 
-- [View the Crop Yield Prediction ML Project on GitHub](https://github.com/mtkyu/mtkyu.github.io/blob/main/CropYieldPredictionMLonly.md)
+- [View the Crop Yield Prediction ML Project on GitHub](https://github.com/mtkyu/mtkyu.github.io/blob/375233ce0f1b2c714845f56c98106a6ed8780daf/CropYieldPredictionMLonly.md)
 
 ## Conclusion
 
@@ -39,6 +39,6 @@ Feel free to explore each project in detail by clicking on the corresponding lin
 
 - [Precision Agriculture Analytics](#) (Link to Project 1)
 - [Mushroom Supply Chain Optimization](#) (Link to Project 2)
-- [Crop Yield Prediction](https://github.com/mtkyu/mtkyu.github.io/blob/main/CropYieldPredictionMLonly.md) 
+- [Crop Yield Prediction](https://github.com/mtkyu/mtkyu.github.io/blob/375233ce0f1b2c714845f56c98106a6ed8780daf/CropYieldPredictionMLonly.md)
 
 Thank you for visiting my portfolio! If you have any questions or would like to connect, please don't hesitate to reach out.
