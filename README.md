@@ -20,7 +20,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 
 - **Technologies Used:** Data Analysis, Supply Chain Optimization
 
-## Project 4: Crop Yield Prediction
+## Project 4: Crop Yield Prediction ML Model
 
 ### Crop Yield Prediction ML Model
 - **Objective**: Forecast crop yields using factors like rainfall, pesticide use, and temperature.
