@@ -192,7 +192,7 @@ This workflow helped us in preprocessing data, training multiple regression mode
 
 ## Special Remarks
 This markdown page is a clean version of my original project. Here's my 'messier' version that led me create this clean version. 
-[CYP Draft](https://github.com/mtkyu/mtkyu.github.io/blob/e7b26e98c99af3be724868c7d9590469549cc6c5/CYP%20DRAFT/CYP%20DRAFT.md)
+[CYP Draft](https://github.com/mtkyu/mtkyu.github.io/tree/41491c3c40f025df2bea40c88bb97883d973f348/CYP%20DRAFT)
 ```python
 
 ```
