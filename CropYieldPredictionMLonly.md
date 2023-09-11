@@ -193,7 +193,7 @@ This workflow helped us in preprocessing data, training multiple regression mode
 ## Special Remarks
 This markdown page is a clean version of my original project. Here's my 'messier' version that led me create this clean version. 
 
-- [Crop Yield Prediction Draft](Link to page)
+- [Crop Yield Prediction Draft](CYP DRAFT/CYP DRAFT.md)
    
 ```python
 
