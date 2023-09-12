@@ -40,5 +40,5 @@ Thank you for visiting my portfolio! If you have any questions or would like to 
 Here are some of my other learning projects I've done to hone my programming and analysis skills in Python: 
 - [Best Restaurant Location](Restaurant_lvl1/Restaurant_lvl1.md)
 - [Exploring Hacker News Posts](Exploring_Hacker_News_Posts.md)
-- [Profitable App Profiles](ProfitableAppProfiles.ipynb)
+- [Profitable App Profiles](ProfitableAppProfiles.md)
 
