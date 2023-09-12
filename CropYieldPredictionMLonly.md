@@ -188,7 +188,7 @@ pickle.dump(preprocessor, open('preprocessor.pkl', 'wb'))
 ```
 
 # Conclusion
-This workflow helped us in preprocessing data, training multiple regression models, and selecting the best model for predicting crop yields.
+This workflow helped us in preprocessing data, training multiple regression models, and selecting the best model for predicting crop yields. With the saved models, we went on to create an app where we can input year, average_rain_fall_mm_per_year, pesticides_tonnes, avg_temp, Area, Item, hg/ha_yield and output predicted yield based on those variables. 
 
 ## Special Remarks
 This markdown page is a clean version of my original project. Here's my 'messier' version that led me create this clean version. 
