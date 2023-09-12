@@ -6,7 +6,7 @@ The original form of this project was done through Excel spreadsheet. We collect
 
 Because the project was done through a work computer, I no longer have access to the spreadsheet. However, I do remember the overall results of the project and with my new-found skill in Python, I will attempt to create a sample data that reflected our results at that time. 
 
-The aim of this project is to identify the most optimal room for mushroom growth based on various performance metrics. We are evaluating the rooms based on the frequency of deliveries, the lead time for those deliveries, and a quality score associated with the mushrooms grown in each room.
+The aim of this project is to identify the most optimal room for mushroom growth based on various performance metrics. As well as generating a mathematical model we can use on a seasonal basis. The optimal chamber changes on a batch-to-batch basis so we need to do this calculation on a seasonal basis. We are evaluating the rooms based on the frequency of deliveries, the lead time for those deliveries, and a quality score associated with the mushrooms grown in each room.
 
 
 ## Variables
