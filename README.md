@@ -1,4 +1,4 @@
-# My Data Science Journey
+# My Data Science Portfolio
 
 Welcome to my data science portfolio, where I showcase some of my top projects in the field of agriculture analytics and data-driven solutions. 
 
