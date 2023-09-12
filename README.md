@@ -2,7 +2,12 @@
 
 Welcome to my data science portfolio, where I showcase some of my top projects in the field of agriculture analytics and data-driven solutions. 
 
+### Precision Agriculture Analytics
+- **Objective**: 
+- **Techniques Used**: 
+- **Optimal Model**: 
 
+- **Techniques Used:** Data Analysis, Supply Chain Optimization
 
 ### Mushroom Supply Chain Optimization
 - **Objective**: 
