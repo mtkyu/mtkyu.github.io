@@ -8,6 +8,8 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 - **Optimal Model**: 
 - **Techniques Used**: 
 
+-[View the 'Crop Recommendation Dataset Analysis on Github](CropDataAnalysis/CropDataAnalysis.md)
+
 ### Mushroom Supply Chain Optimization
 - **Objective**: Identify the optimal room for mushroom growth based on deliveries, lead time, and quality.
 - **Techniques Used**: Data normalization, weighted sum model
@@ -30,7 +32,7 @@ These projects represent my passion for applying data science to agriculture, dr
 
 Feel free to explore each project in detail by clicking on the corresponding links below:
 
-- [Precision Agriculture Analytics](#) (Link to Project 1)
+- [Precision Agriculture Analytics](CropDataAnalysis/CropDataAnalysis.md)
 - [Mushroom Supply Chain Optimization](MushroomGrowthRoomReport/MushroomGrowthRoomReport.md)
 - [Crop Yield Prediction](CropYieldPredictionMLonly.md)
 
