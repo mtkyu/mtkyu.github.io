@@ -3,10 +3,9 @@
 Welcome to my data science portfolio, where I showcase some of my top projects in the field of agriculture analytics and data-driven solutions. 
 
 ### Precision Agriculture Analytics
-- **Objective**: 
-- **Techniques Used**: 
-- **Optimal Model**: 
-- **Techniques Used**: 
+- **Objective**: Optimize crop yields by analyzing data from IoT sensors, drones, and other precision agriculture technology.
+- **Techniques Used**: Data normalization, visualization (violin plots, histograms, boxplots), label encoding.
+- **Optimal Model**:  Not yet determined; exploratory analysis stage
 
 -[View the 'Crop Recommendation Dataset Analysis on Github](CropDataAnalysis/CropDataAnalysis.md)
 
