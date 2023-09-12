@@ -6,7 +6,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 - **Objective**: Optimize crop yields by analyzing data from IoT sensors, drones, and other precision agriculture technology.
 - **Techniques Used**:  Data normalization, Visualization, Label encoding and feature scaling using MinMaxScaler
 - **Optimal Model**:  Not yet determined; exploratory analysis stage
-
+  
 [View the Crop Recommendation Dataset Analysis on Github](CropDataAnalysis/CropDataAnalysis.md)
 
 ### Mushroom Supply Chain Optimization
@@ -14,7 +14,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 - **Techniques Used**: Data normalization, weighted sum model
 - **Optimal Model**: Weighted score calculation
 -  **Technologies Used:** Data Analysis, Supply Chain Optimization
-
+- 
 [View the Best Mushroom Chamber Growth Report on Github](MushroomGrowthRoomReport/MushroomGrowthRoomReport.md)
 
 ### Crop Yield Prediction ML Model
@@ -22,7 +22,7 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 - **Techniques Used**: Regression analysis, data preprocessing, and serialization for deployment.
 - **Optimal Model**: Decision Tree Regressor.
 - **Technologies Used:** Predictive Analytics, Time Series Analysis, Regression
-
+  
 [View the Crop Yield Prediction ML Project on GitHub](CropYieldPredictionMLonly.md)
 
 ## Conclusion
