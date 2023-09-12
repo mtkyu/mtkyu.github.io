@@ -6,21 +6,20 @@ Welcome to my data science portfolio, where I showcase some of my top projects i
 - **Objective**: 
 - **Techniques Used**: 
 - **Optimal Model**: 
-
-- **Techniques Used:** Data Analysis, Supply Chain Optimization
+- **Techniques Used**: 
 
 ### Mushroom Supply Chain Optimization
-- **Objective**: 
-- **Techniques Used**: 
-- **Optimal Model**: 
+- **Objective**: Identify the optimal room for mushroom growth based on deliveries, lead time, and quality.
+- **Techniques Used**: Data normalization, weighted sum model
+- **Optimal Model**: Weighted score calculation
+-  **Technologies Used:** Data Analysis, Supply Chain Optimization
 
-- **Techniques Used:** Data Analysis, Supply Chain Optimization
+-  [View the Best Mushroom Chamber Growth Report]()
 
 ### Crop Yield Prediction ML Model
 - **Objective**: Forecast crop yields using factors like rainfall, pesticide use, and temperature.
 - **Techniques Used**: Regression analysis, data preprocessing, and serialization for deployment.
 - **Optimal Model**: Decision Tree Regressor.
-
 - **Technologies Used:** Predictive Analytics, Time Series Analysis, Regression
 
 - [View the Crop Yield Prediction ML Project on GitHub](CropYieldPredictionMLonly.md)
