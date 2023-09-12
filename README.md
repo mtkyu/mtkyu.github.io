@@ -1,26 +1,15 @@
-# My Data Science Portfolio
+# My Data Science Journey
 
-Welcome to my data science portfolio, where I showcase some of my top projects in the field of agriculture analytics and data-driven solutions.
+Welcome to my data science portfolio, where I showcase some of my top projects in the field of agriculture analytics and data-driven solutions. 
 
-## Project 1: Precision Agriculture Analytics
 
-- **Project Overview:**
-  - Developed a precision agriculture model to optimize crop yields by analyzing data from IoT sensors, drones, and satellite imagery.
-  - Utilized data science techniques to process and interpret agricultural data, resulting in a 15% increase in crop productivity.
-  - Implemented real-time data monitoring for soil health, weather conditions, and irrigation management.
 
-- **Technologies Used:** IoT, Drones, Satellite Imagery, Data Science
+### Mushroom Supply Chain Optimization
+- **Objective**: 
+- **Techniques Used**: 
+- **Optimal Model**: 
 
-## Project 2: Mushroom Supply Chain Optimization
-
-- **Project Overview:**
-  - Collaborated on a project to optimize the agricultural supply chain using data-driven approaches.
-  - Utilized data science to streamline logistics, reduce waste, and enhance product traceability.
-  - Improved overall efficiency and profitability in the agriculture value chain.
-
-- **Technologies Used:** Data Analysis, Supply Chain Optimization
-
-## Project 4: Crop Yield Prediction ML Model
+- **Techniques Used:** Data Analysis, Supply Chain Optimization
 
 ### Crop Yield Prediction ML Model
 - **Objective**: Forecast crop yields using factors like rainfall, pesticide use, and temperature.
