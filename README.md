@@ -31,7 +31,7 @@ These projects represent my passion for applying data science to agriculture, dr
 Feel free to explore each project in detail by clicking on the corresponding links below:
 
 - [Precision Agriculture Analytics](#) (Link to Project 1)
-- [Mushroom Supply Chain Optimization](#) (Link to Project 2)
+- [Mushroom Supply Chain Optimization](MushroomGrowthRoomReport)
 - [Crop Yield Prediction](CropYieldPredictionMLonly.md)
 
 Thank you for visiting my portfolio! If you have any questions or would like to connect, please don't hesitate to reach out.
