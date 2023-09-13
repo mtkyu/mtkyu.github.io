@@ -1,4 +1,4 @@
-# My Data Science Portfolio
+# Myat Thin Kyu
 
 Welcome to my data science portfolio, where I showcase some of my top projects in the field of agriculture analytics and data-driven solutions. 
 
@@ -36,6 +36,7 @@ Feel free to explore each project in detail by clicking on the corresponding lin
 - [Crop Yield Prediction](CropYieldPredictionMLonly.md)
 
 Thank you for visiting my portfolio! If you have any questions or would like to connect, please don't hesitate to reach out.
+- Email: mkyu1998@gmail.com
 
 Here are some of my other learning projects I've done to hone my programming and analysis skills in Python: 
 - [Best Restaurant Location](Restaurant_lvl1/Restaurant_lvl1.md)
